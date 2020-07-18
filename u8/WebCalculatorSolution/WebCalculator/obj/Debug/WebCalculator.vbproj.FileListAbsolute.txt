@@ -1,0 +1,82 @@
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Lesson1Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Lesson1Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Lesson1Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Lesson1Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Lesson1Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Lesson1Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Lesson1Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Lesson1Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter03\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter04\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter05\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter06\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter06\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter06\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter06\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter06\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter06\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter06\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter06\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise1Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\Glenn\SkyDrive\70-480 Programming with HTML5 Javascript and CSS3\Chapter07\Lab\Exercise2Completed\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll.config
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\apary\OneDrive\VisStu\web2\u8\ContosoWeb\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
